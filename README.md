@@ -1,2 +1,2 @@
 # fullstackopenHU
-Full Stack Open - Helsinki University
+Full Stack Open - Helsinki University - Labs.
